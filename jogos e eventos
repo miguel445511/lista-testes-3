@@ -9,3 +9,12 @@ http://pfsv.io:80/00826082/94250/33400
 http://pfsv.io:80/00826082/94250/33401
 #EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",#EVENTOS 05
 http://pfsv.io:80/00826082/94250/33402
+
+#EXTINF:-1 tvg-logo="http://p6.vc/f9H" group-title="Filmes | [XXX] Adultos",Adulto: Buttman - Carnaval Folia 2005
+http://pfsv.io:80/movie/33732940/14864/5302.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9H" group-title="Filmes | [XXX] Adultos",Adulto: Buttman - Puro Prazer 2
+http://pfsv.io:80/movie/33732940/14864/5160.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9H" group-title="Filmes | [XXX] Adultos",Adulto: Buttman - Tour Porto Alegre
+http://pfsv.io:80/movie/33732940/14864/5222.mp4
+#EXTINF:-1 tvg-logo="http://p6.vc/f9H" group-title="Filmes | [XXX] Adultos",Adulto: Festa da Salsicha
+http://pfsv.io:80/movie/33732940/14864/5146.mp4
